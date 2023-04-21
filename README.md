@@ -31,21 +31,22 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `Screenshots `for iPhone 
 
-![iPhone](https://user-images.githubusercontent.com/91127608/233550518-8d6ea374-6a01-48ec-96ba-c9ace4d82854.png)
+![iPhone](https://user-images.githubusercontent.com/91127608/233558304-f0fc5c11-6daa-411c-be5b-68e3a6b33371.png)
+
 
 ### `Screenshots `for  Android 
 
-![Android](https://user-images.githubusercontent.com/91127608/233550599-ecc2d185-370f-4472-b23b-1a1bc6c6810b.png) 
+![Android](https://user-images.githubusercontent.com/91127608/233558375-9a7cf2dc-5f4f-48ce-9ede-2a1869b62ebc.png)
+
 
 ### `Screenshots `for ipad 
 
-![ipad](https://user-images.githubusercontent.com/91127608/233550693-c0442c9f-81f4-439b-963d-fe37ae2d0e79.png)
+![iPad](https://user-images.githubusercontent.com/91127608/233558405-f896b856-6bc7-423d-a3c5-c84643c1d9ea.png)
 
 
 ### `Screenshots `for laptop or desktop
 
-![laptop or desktop](https://user-images.githubusercontent.com/91127608/233550830-0f6e75d5-b360-4675-8fb1-2bfa2f63d850.png)
-
+![laptop or desktop](https://user-images.githubusercontent.com/91127608/233558414-76875378-b5d5-42ab-9c32-6bf8408b5cd0.png)
 
 
 ### `yarn eject`
