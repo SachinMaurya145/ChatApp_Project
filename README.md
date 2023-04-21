@@ -29,6 +29,25 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `Screenshots `for iPhone 
+
+![iPhone](https://user-images.githubusercontent.com/91127608/233550518-8d6ea374-6a01-48ec-96ba-c9ace4d82854.png)
+
+### `Screenshots `for  Android 
+
+![Android](https://user-images.githubusercontent.com/91127608/233550599-ecc2d185-370f-4472-b23b-1a1bc6c6810b.png) 
+
+### `Screenshots `for ipad 
+
+![ipad](https://user-images.githubusercontent.com/91127608/233550693-c0442c9f-81f4-439b-963d-fe37ae2d0e79.png)
+
+
+### `Screenshots `for laptop or desktop
+
+![laptop or desktop](https://user-images.githubusercontent.com/91127608/233550830-0f6e75d5-b360-4675-8fb1-2bfa2f63d850.png)
+
+
+
 ### `yarn eject`
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
